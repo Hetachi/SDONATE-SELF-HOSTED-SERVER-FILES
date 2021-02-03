@@ -1,3 +1,5 @@
+Go to https://sdonate.com/documentation.php for installation instructions.
+
 # SDONATE SELF HOSTED SCRIPT
 I do not own or sell this script, I have uploaded this script due to demand from SDONATE customers and inability to download this script from official website: [http://sdonate.com](http://sdonate.com)
 
